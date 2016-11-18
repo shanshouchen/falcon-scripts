@@ -8,7 +8,7 @@ import urllib2
 import json
 
 # Multiple instances on a host
-servers = ['http://127.0.0.1:8983', 'http://127.0.0.1:8984', 'http://127.0.0.1:8985']
+servers = ['http://127.0.0.1:8983']
 
 
 def push_data(content):
